@@ -10,8 +10,8 @@ from pypdf import PdfWriter
 
 # ================= 配置区 =================
 # 如果想下载其他书籍，请修改这里的 BOOK_ID
-# 电子书 URL 末尾的那串字符就是 BOOK_ID，例如 https://shyyjsdx.w.chineseall.cn/book/read/7cH1g 的 ID 是 7cH1g
-BOOK_ID = "7cH1g"
+# 电子书 URL 末尾的那串字符就是 BOOK_ID，例如 https://shuxiang.chineseall.cn/book/read/FjdEj 的 ID 是 FjdEj
+BOOK_ID = "FjdEj"
 # ==========================================
 
 BASE_URL = f"https://shyyjsdx.w.chineseall.cn/book/read/{BOOK_ID}"
