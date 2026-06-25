@@ -35,8 +35,8 @@
 
 如果您需要下载平台上的其他电子书，只需两步：
 1. 复制该电子书在浏览器地址栏中的链接。例如：
-   `https://shyyjsdx.w.chineseall.cn/book/read/7cH1g`
-   链接最末尾的 **`7cH1g`** 就是该书的 `BOOK_ID`。
+   `https://shuxiang.chineseall.cn/book/read/FjdEj`
+   链接最末尾的 **`FjdEj`** 就是该书的 `BOOK_ID`。
 2. 用文本编辑器打开本目录下的 **`download.py`**，修改第 **9** 行的配置项：
    ```python
    # 如果想下载其他书籍，请修改这里的 BOOK_ID
